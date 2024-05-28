@@ -1,0 +1,25 @@
+%YAML:1.0
+
+camera_width: 1280
+camera_height: 1024
+CameraMatrix_00: 8581.465
+CameraMatrix_11: 8601.441
+CameraMatrix_02: 639.66461
+CameraMatrix_12: 797.20712
+DistCoeffs_00: -0.2491111
+DistCoeffs_01: -7.4124249
+DistCoeffs_02: 0.0
+DistCoeffs_03: 0.0
+Mode        : 0 #设置触发模式, 0: 连续采集 1: 软触发 2: 硬触发
+Auto        : 1 # 0: 手动 1: 自动
+exposure    : 1000
+rGain       : 139 #139
+gGain       : 119 #119
+bGain       : 100
+analogGain  : 192
+gamma       : 100
+contrast    : 100
+brightness  : 128
+size_min : 50
+size_max : 175
+color_cnt : 40

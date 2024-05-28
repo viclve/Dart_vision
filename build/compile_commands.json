@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/helloworld/szy/single_cam/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/helloworld/szy/single_cam/Camera -I/home/helloworld/szy/single_cam/Camera/MVCamera/include -I/home/helloworld/szy/single_cam/detector -I/home/helloworld/szy/single_cam/parameters -I/home/helloworld/szy/single_cam/SerialCommunicator -I/home/helloworld/szy/single_cam/SerialCommunicator/serial/include -I/home/helloworld/szy/single_cam/. -isystem /usr/include/eigen3 -isystem /usr/include/opencv -g -std=gnu++1z -o CMakeFiles/main.dir/main.cpp.o -c /home/helloworld/szy/single_cam/main.cpp",
+  "file": "/home/helloworld/szy/single_cam/main.cpp"
+},
+{
+  "directory": "/home/helloworld/szy/single_cam/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/helloworld/szy/single_cam/Camera -I/home/helloworld/szy/single_cam/Camera/MVCamera/include -I/home/helloworld/szy/single_cam/detector -I/home/helloworld/szy/single_cam/parameters -I/home/helloworld/szy/single_cam/SerialCommunicator -I/home/helloworld/szy/single_cam/SerialCommunicator/serial/include -I/home/helloworld/szy/single_cam/. -isystem /usr/include/eigen3 -isystem /usr/include/opencv -g -std=gnu++1z -o CMakeFiles/main.dir/Camera/camera.cpp.o -c /home/helloworld/szy/single_cam/Camera/camera.cpp",
+  "file": "/home/helloworld/szy/single_cam/Camera/camera.cpp"
+},
+{
+  "directory": "/home/helloworld/szy/single_cam/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/helloworld/szy/single_cam/Camera -I/home/helloworld/szy/single_cam/Camera/MVCamera/include -I/home/helloworld/szy/single_cam/detector -I/home/helloworld/szy/single_cam/parameters -I/home/helloworld/szy/single_cam/SerialCommunicator -I/home/helloworld/szy/single_cam/SerialCommunicator/serial/include -I/home/helloworld/szy/single_cam/. -isystem /usr/include/eigen3 -isystem /usr/include/opencv -g -std=gnu++1z -o CMakeFiles/main.dir/parameters/params.cpp.o -c /home/helloworld/szy/single_cam/parameters/params.cpp",
+  "file": "/home/helloworld/szy/single_cam/parameters/params.cpp"
+},
+{
+  "directory": "/home/helloworld/szy/single_cam/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/helloworld/szy/single_cam/Camera -I/home/helloworld/szy/single_cam/Camera/MVCamera/include -I/home/helloworld/szy/single_cam/detector -I/home/helloworld/szy/single_cam/parameters -I/home/helloworld/szy/single_cam/SerialCommunicator -I/home/helloworld/szy/single_cam/SerialCommunicator/serial/include -I/home/helloworld/szy/single_cam/. -isystem /usr/include/eigen3 -isystem /usr/include/opencv -g -std=gnu++1z -o CMakeFiles/main.dir/detector/detector.cpp.o -c /home/helloworld/szy/single_cam/detector/detector.cpp",
+  "file": "/home/helloworld/szy/single_cam/detector/detector.cpp"
+},
+{
+  "directory": "/home/helloworld/szy/single_cam/build",
+  "command": "/usr/bin/g++ -DGFLAGS_IS_A_DLL=0 -I/home/helloworld/szy/single_cam/Camera -I/home/helloworld/szy/single_cam/Camera/MVCamera/include -I/home/helloworld/szy/single_cam/detector -I/home/helloworld/szy/single_cam/parameters -I/home/helloworld/szy/single_cam/SerialCommunicator -I/home/helloworld/szy/single_cam/SerialCommunicator/serial/include -I/home/helloworld/szy/single_cam/. -isystem /usr/include/eigen3 -isystem /usr/include/opencv -g -std=gnu++1z -o CMakeFiles/main.dir/SerialCommunicator/SerialCommunicator.cpp.o -c /home/helloworld/szy/single_cam/SerialCommunicator/SerialCommunicator.cpp",
+  "file": "/home/helloworld/szy/single_cam/SerialCommunicator/SerialCommunicator.cpp"
+}
+]

@@ -1,0 +1,11 @@
+%YAML:1.0
+
+robot_name      : '飞镖发射架'
+target_color    : 0 # 0: all  1: blue  2: red
+debug           : 0 # 0: off  1: on
+camera_type     : 0 # 0: mindvision camera, 1: Video
+video_path      : '/home/helloworld/Videos/dart_video/'
+enable_serial   : 1 # 不许动!
+show_source_img : 1
+show_target_img : 1
+save_video      : 1

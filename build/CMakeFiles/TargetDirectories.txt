@@ -1,0 +1,3 @@
+/home/helloworld/szy/single_cam/build/CMakeFiles/main.dir
+/home/helloworld/szy/single_cam/build/CMakeFiles/edit_cache.dir
+/home/helloworld/szy/single_cam/build/CMakeFiles/rebuild_cache.dir
